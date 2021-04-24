@@ -16,3 +16,8 @@ Now our work will continue locally
 4. Observe it has been added in your repository
 under GitHub.com
 
+
+How to save after adding some text in sublime 
+On mac Command + S
+On windows Contol + S
+Or Click on file --> Save
